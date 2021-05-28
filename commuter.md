@@ -12,9 +12,9 @@
 
 2105260612 30% (undefined)
 
-2105270612 15% (一些JavaScript base/promise/一些detail)
+2105270612 15% (some project detail/some JavaScript base/promise)
 
-
+2105280808 10% (some project detail/some JavaScript base)
 
 
 
