@@ -18,7 +18,7 @@
 
 2105290510 25% (let/mini_app/some uni detail)
 
-
+2105300512 30% (let/some interviews/finish second task)
 
 
 
