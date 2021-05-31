@@ -20,7 +20,7 @@
 
 2105300512 30% (let/some interviews/finish second task)
 
-
+2105310918 20% (call/interviews detail/let)
 
 
 
