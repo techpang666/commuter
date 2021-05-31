@@ -22,7 +22,7 @@
 
 2105310918 20% (call/interviews detail/let)
 
-
+2106010515 30% (fix resume/let/promise/del last str)
 
 
 
