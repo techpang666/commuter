@@ -6,7 +6,7 @@
 
 2106010515 30% (fix resume/let/promise/del last str)
 
-
+2106020520 35% (const/interview detail)
 
 
 
