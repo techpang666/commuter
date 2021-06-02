@@ -8,6 +8,8 @@
 
 2106020520 35% (const/interview detail)
 
+2106030502 30% (undefined/interview detail)
+
 
 
 
