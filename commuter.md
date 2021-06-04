@@ -12,7 +12,7 @@
 
 2106040746 30% (undefined/interview detail/interview)
 
-
+2106050530 30% (null/interview/write project)
 
 
 
