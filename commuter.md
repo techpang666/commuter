@@ -14,7 +14,7 @@
 
 2106050530 30% (null/interview/write project)
 
-
+2106060615 30% (super interview/boolean/valueOf and toString)
 
 
 
