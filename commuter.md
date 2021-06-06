@@ -16,7 +16,7 @@
 
 2106060615 30% (super interview/boolean/valueOf and toString)
 
-
+2106070535 30% (NaN/Number/write project and interview)
 
 
 
