@@ -22,7 +22,7 @@
 
 2106090510 30% (super interview)
 
-
+2106100511 25 (config computer/learn react and project)
 
 
 
