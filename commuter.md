@@ -27,7 +27,7 @@
 
 2106110606 35% (ts/react/jquery/watch project)
 
-
+2106120600 55% (merge super interview/jquery)
 
 
 
