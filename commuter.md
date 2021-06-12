@@ -29,7 +29,7 @@
 
 2106120600 55% (merge super interview/jquery)
 
-
+2106130522 25% (ts)
 
 
 
